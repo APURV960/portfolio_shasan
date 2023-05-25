@@ -33,19 +33,19 @@ body {
   hr{
     border-style: none;
     border-top-style: dotted;
-    border-color:#eaf6f6;  
+    border-color:#dde2e2;  
     border-width: 5px;
     width: 4%;
     margin: 100px auto 100px auto;
   }
 
-  .nav-menu{
+  .button{
     position: absolute;
-    right: 0rem;
+    right: 1rem;
     top: 5rem;
-    height: 50px;
+    height: 60px;
     width: 50px;
-    border: radius 900px;
+    border-radius:90%;
     margin: 20px;
     border: none;
     cursor: pointer;
@@ -78,7 +78,8 @@ body {
   }
   
   .code-img{width: 25%;float: left;margin-right: 30px;}
-  .chilli-img{width: 25%;float: right;margin-left: 30px;}
+  .photography{position: absolute;right:1rem;top: 110rem;}
+  .badminton{position: absolute;right:50rem; width: 12rem;height: 10rem;}
   
   .photo {
     width: 200px;
